@@ -9,16 +9,12 @@ using System.Threading.Tasks;
 
 namespace SoccerAnalyticsRepository.ClassImplementation
 {
-    public class PlayerRepository : Repository<Player>, IPlayerRepository
+    public class PlayerRepository : Repository<Player>
     {
         private AppDbContext _db;
         public PlayerRepository(AppDbContext db) : base(db)
         {
             _db = db;
-        }
-        public void Update(Player player)
-        {
-            _db.Players.Update(player);
         }
     }
 }

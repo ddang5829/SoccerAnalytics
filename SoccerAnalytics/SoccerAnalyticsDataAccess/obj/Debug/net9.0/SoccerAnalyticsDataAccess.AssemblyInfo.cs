@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoccerAnalyticsDataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c83df77f6fd828d9aefb6bb9d6d6eb7279e6e4f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+932e729cbf79f0aa58ff5eabcebbd1bf61b0656a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoccerAnalyticsDataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoccerAnalyticsDataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
