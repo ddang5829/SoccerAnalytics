@@ -1,0 +1,17 @@
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\bin\Debug\net9.0\SoccerAnalyticsRepository.deps.json
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\bin\Debug\net9.0\SoccerAnalyticsRepository.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\bin\Debug\net9.0\SoccerAnalyticsRepository.pdb
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\obj\Debug\net9.0\SoccerAnalyticsRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\obj\Debug\net9.0\SoccerAnalyticsRepository.AssemblyInfoInputs.cache
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\obj\Debug\net9.0\SoccerAnalyticsRepository.AssemblyInfo.cs
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\obj\Debug\net9.0\SoccerAnalyticsRepository.csproj.CoreCompileInputs.cache
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\obj\Debug\net9.0\SoccerAnalyticsRepository.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\obj\Debug\net9.0\refint\SoccerAnalyticsRepository.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\obj\Debug\net9.0\SoccerAnalyticsRepository.pdb
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\obj\Debug\net9.0\ref\SoccerAnalyticsRepository.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\obj\Debug\net9.0\SoccerAnalyticsRepository.csproj.AssemblyReference.cache
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\bin\Debug\net9.0\SoccerAnalyticModels.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\bin\Debug\net9.0\SoccerAnalyticsDataAccess.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\bin\Debug\net9.0\SoccerAnalyticsDataAccess.pdb
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\bin\Debug\net9.0\SoccerAnalyticModels.pdb
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsRepository\obj\Debug\net9.0\SoccerAn.B46D559E.Up2Date

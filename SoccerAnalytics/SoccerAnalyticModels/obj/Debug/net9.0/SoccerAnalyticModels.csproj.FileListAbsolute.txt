@@ -1,0 +1,11 @@
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\bin\Debug\net9.0\SoccerAnalyticModels.deps.json
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\bin\Debug\net9.0\SoccerAnalyticModels.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\bin\Debug\net9.0\SoccerAnalyticModels.pdb
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\obj\Debug\net9.0\SoccerAnalyticModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\obj\Debug\net9.0\SoccerAnalyticModels.AssemblyInfoInputs.cache
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\obj\Debug\net9.0\SoccerAnalyticModels.AssemblyInfo.cs
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\obj\Debug\net9.0\SoccerAnalyticModels.csproj.CoreCompileInputs.cache
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\obj\Debug\net9.0\SoccerAnalyticModels.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\obj\Debug\net9.0\refint\SoccerAnalyticModels.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\obj\Debug\net9.0\SoccerAnalyticModels.pdb
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticModels\obj\Debug\net9.0\ref\SoccerAnalyticModels.dll

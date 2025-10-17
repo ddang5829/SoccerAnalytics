@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NYbsZmGlrU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsUtilities\\SoccerAnalyticsUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dangt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.6\\microsoft.windowsdesktop.app.ref.9.0.6.nupkg.sha512",
+    "C:\\Users\\dangt\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.6\\microsoft.netcore.app.ref.9.0.6.nupkg.sha512",
+    "C:\\Users\\dangt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.6\\microsoft.aspnetcore.app.ref.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

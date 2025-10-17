@@ -1,0 +1,17 @@
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\bin\Debug\net9.0\SoccerAnalyticsDataAccess.deps.json
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\bin\Debug\net9.0\SoccerAnalyticsDataAccess.runtimeconfig.json
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\bin\Debug\net9.0\SoccerAnalyticsDataAccess.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\bin\Debug\net9.0\SoccerAnalyticsDataAccess.pdb
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\bin\Debug\net9.0\SoccerAnalyticModels.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\bin\Debug\net9.0\SoccerAnalyticModels.pdb
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\SoccerAnalyticsDataAccess.csproj.AssemblyReference.cache
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\SoccerAnalyticsDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\SoccerAnalyticsDataAccess.AssemblyInfoInputs.cache
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\SoccerAnalyticsDataAccess.AssemblyInfo.cs
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\SoccerAnalyticsDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\SoccerAn.39D9E7F5.Up2Date
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\SoccerAnalyticsDataAccess.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\refint\SoccerAnalyticsDataAccess.dll
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\SoccerAnalyticsDataAccess.pdb
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\SoccerAnalyticsDataAccess.genruntimeconfig.cache
+C:\Users\dangt\Documents\GitHub\SoccerAnalytics\SoccerAnalytics\SoccerAnalyticsDataAccess\obj\Debug\net9.0\ref\SoccerAnalyticsDataAccess.dll

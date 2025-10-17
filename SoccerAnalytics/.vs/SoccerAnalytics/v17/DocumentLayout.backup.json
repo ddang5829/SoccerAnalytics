@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0196BE6-0524-49B3-93FD-2BF8BDA411F9}|SoccerAnalyticsRepository\\SoccerAnalyticsRepository.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalyticsrepository\\classimplementation\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0196BE6-0524-49B3-93FD-2BF8BDA411F9}|SoccerAnalyticsRepository\\SoccerAnalyticsRepository.csproj|solutionrelative:socceranalyticsrepository\\classimplementation\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0196BE6-0524-49B3-93FD-2BF8BDA411F9}|SoccerAnalyticsRepository\\SoccerAnalyticsRepository.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalyticsrepository\\classimplementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0196BE6-0524-49B3-93FD-2BF8BDA411F9}|SoccerAnalyticsRepository\\SoccerAnalyticsRepository.csproj|solutionrelative:socceranalyticsrepository\\classimplementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0196BE6-0524-49B3-93FD-2BF8BDA411F9}|SoccerAnalyticsRepository\\SoccerAnalyticsRepository.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalyticsrepository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0196BE6-0524-49B3-93FD-2BF8BDA411F9}|SoccerAnalyticsRepository\\SoccerAnalyticsRepository.csproj|solutionrelative:socceranalyticsrepository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0196BE6-0524-49B3-93FD-2BF8BDA411F9}|SoccerAnalyticsRepository\\SoccerAnalyticsRepository.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalyticsrepository\\interface\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0196BE6-0524-49B3-93FD-2BF8BDA411F9}|SoccerAnalyticsRepository\\SoccerAnalyticsRepository.csproj|solutionrelative:socceranalyticsrepository\\interface\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E3D17B-E870-45A9-AF98-B313EFD7C48E}|SoccerAnalyticsAPI\\SoccerAnalyticsAPI.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalyticsapi\\socceranalyticsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E3D17B-E870-45A9-AF98-B313EFD7C48E}|SoccerAnalyticsAPI\\SoccerAnalyticsAPI.csproj|solutionrelative:socceranalyticsapi\\socceranalyticsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF223245-BAFB-44F7-9643-0B61A7F6C0F9}|SoccerAnalyticModels\\SoccerAnalyticModels.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalyticmodels\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF223245-BAFB-44F7-9643-0B61A7F6C0F9}|SoccerAnalyticModels\\SoccerAnalyticModels.csproj|solutionrelative:socceranalyticmodels\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A707848-75AB-46D7-A06C-45DED8EC8F93}|SoccerAnalyticsDataAccess\\SoccerAnalyticsDataAccess.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalyticsdataaccess\\migrations\\20251016232524_addclubandplayertodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A707848-75AB-46D7-A06C-45DED8EC8F93}|SoccerAnalyticsDataAccess\\SoccerAnalyticsDataAccess.csproj|solutionrelative:socceranalyticsdataaccess\\migrations\\20251016232524_addclubandplayertodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A707848-75AB-46D7-A06C-45DED8EC8F93}|SoccerAnalyticsDataAccess\\SoccerAnalyticsDataAccess.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalyticsdataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A707848-75AB-46D7-A06C-45DED8EC8F93}|SoccerAnalyticsDataAccess\\SoccerAnalyticsDataAccess.csproj|solutionrelative:socceranalyticsdataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C573C4AE-D0DA-44A3-AB6C-34DEE14D2411}|SoccerAnalytics\\SoccerAnalytics.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalytics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C573C4AE-D0DA-44A3-AB6C-34DEE14D2411}|SoccerAnalytics\\SoccerAnalytics.csproj|solutionrelative:socceranalytics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C573C4AE-D0DA-44A3-AB6C-34DEE14D2411}|SoccerAnalytics\\SoccerAnalytics.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalytics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C573C4AE-D0DA-44A3-AB6C-34DEE14D2411}|SoccerAnalytics\\SoccerAnalytics.csproj|solutionrelative:socceranalytics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF223245-BAFB-44F7-9643-0B61A7F6C0F9}|SoccerAnalyticModels\\SoccerAnalyticModels.csproj|c:\\users\\dangt\\documents\\github\\socceranalytics\\socceranalytics\\socceranalyticmodels\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF223245-BAFB-44F7-9643-0B61A7F6C0F9}|SoccerAnalyticModels\\SoccerAnalyticModels.csproj|solutionrelative:socceranalyticmodels\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsRepository\\Interface\\IPlayerRepository.cs",
+              "RelativeDocumentMoniker": "SoccerAnalyticsRepository\\Interface\\IPlayerRepository.cs",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsRepository\\Interface\\IPlayerRepository.cs",
+              "RelativeToolTip": "SoccerAnalyticsRepository\\Interface\\IPlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T02:16:02.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsRepository\\ClassImplementation\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "SoccerAnalyticsRepository\\ClassImplementation\\PlayerRepository.cs",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsRepository\\ClassImplementation\\PlayerRepository.cs",
+              "RelativeToolTip": "SoccerAnalyticsRepository\\ClassImplementation\\PlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T02:14:49.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsRepository\\ClassImplementation\\Repository.cs",
+              "RelativeDocumentMoniker": "SoccerAnalyticsRepository\\ClassImplementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsRepository\\ClassImplementation\\Repository.cs",
+              "RelativeToolTip": "SoccerAnalyticsRepository\\ClassImplementation\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwDMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T02:01:06.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsRepository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "SoccerAnalyticsRepository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsRepository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "SoccerAnalyticsRepository\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:28:58.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoccerAnalyticsAPI.cs",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsAPI\\SoccerAnalyticsAPI.cs",
+              "RelativeDocumentMoniker": "SoccerAnalyticsAPI\\SoccerAnalyticsAPI.cs",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsAPI\\SoccerAnalyticsAPI.cs",
+              "RelativeToolTip": "SoccerAnalyticsAPI\\SoccerAnalyticsAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T00:02:00.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251016232524_AddClubAndPlayerToDb.cs",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsDataAccess\\Migrations\\20251016232524_AddClubAndPlayerToDb.cs",
+              "RelativeDocumentMoniker": "SoccerAnalyticsDataAccess\\Migrations\\20251016232524_AddClubAndPlayerToDb.cs",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsDataAccess\\Migrations\\20251016232524_AddClubAndPlayerToDb.cs",
+              "RelativeToolTip": "SoccerAnalyticsDataAccess\\Migrations\\20251016232524_AddClubAndPlayerToDb.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:25:24.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalytics\\appsettings.json",
+              "RelativeDocumentMoniker": "SoccerAnalytics\\appsettings.json",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalytics\\appsettings.json",
+              "RelativeToolTip": "SoccerAnalytics\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T23:11:39.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalytics\\Program.cs",
+              "RelativeDocumentMoniker": "SoccerAnalytics\\Program.cs",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalytics\\Program.cs",
+              "RelativeToolTip": "SoccerAnalytics\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:10:23.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsDataAccess\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SoccerAnalyticsDataAccess\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticsDataAccess\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SoccerAnalyticsDataAccess\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:27:19.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticModels\\Club.cs",
+              "RelativeDocumentMoniker": "SoccerAnalyticModels\\Club.cs",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticModels\\Club.cs",
+              "RelativeToolTip": "SoccerAnalyticModels\\Club.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:01:36.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticModels\\Player.cs",
+              "RelativeDocumentMoniker": "SoccerAnalyticModels\\Player.cs",
+              "ToolTip": "C:\\Users\\dangt\\Documents\\GitHub\\SoccerAnalytics\\SoccerAnalytics\\SoccerAnalyticModels\\Player.cs",
+              "RelativeToolTip": "SoccerAnalyticModels\\Player.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:57:19.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
